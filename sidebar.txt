@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[guc:home|Door43 (guc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-guc|d43-guc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-guc/archive/master.zip|d43-guc.zip]]
+
+**Recent Changes**
+{{changes>ns = guc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/guc|Ethnologue data]]
+
